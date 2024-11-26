@@ -2,7 +2,8 @@
 Smart Crop earn prediction model
 problem statement: How can crop yield prediction algorithms be improved to generalize across diverse geographical regions and varying environmental conditions
 Steps done in the project:
-1.Data Loading and Exploration: Load the CSV files into Pandas DataFrames and explore the data.
+1.Data Loading and
+ Exploration: Load the CSV files into Pandas DataFrames and explore the data.
 
 2.Data Preprocessing: Merge the data, handle missing values, and encode categorical features.
 
@@ -16,9 +17,8 @@ Steps done in the project:
 
 7.HTML Template: Create an HTML template to display the prediction results .
 
-#Userinterface:
-"C:\Users\91992\Pictures\Screenshots\Screenshot 2024-10-13 091321.png"
-#RedirectedPage to prediction result page:
-"C:\Users\91992\Pictures\Screenshots\Screenshot 2024-10-14 093046.png"
+#Prediction model userinterface:
+![Screenshot 2024-10-13 091321](https://github.com/user-attachments/assets/97e969f5-a44f-47bd-a909-d30f1784b70d)
 
-
+#Prediction result :
+![Screenshot 2024-10-14 093046](https://github.com/user-attachments/assets/06e73c6c-dafd-4680-819e-d408b3d12d25)
